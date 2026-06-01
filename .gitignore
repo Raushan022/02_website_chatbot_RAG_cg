@@ -4,6 +4,7 @@ env/
 
 # locally saved faiss index
 faiss_index
+vector_db
 
 # Python Cache
 __pycache__/
